@@ -12,17 +12,19 @@
 <p align="center">
 
   <h3 align="center">Punk API - Rende</h3>
+  
+  ##Link para projeto:
+  http://dear-discussion.surge.sh/
 </p>
 
 ## Sobre o Projeto
 
 Este projeto consiste em consumir uma API pública, renderizar os itens, salvá-los em LocalStorage e poder manipular, filtrando, deletando e até adicionando mais itens, conforme gosto do usuário.
 
-![image](![front-page-punkapi](https://user-images.githubusercontent.com/64399840/136470741-ae71f62a-f272-4b60-b13b-524ff7bc319a.png)
+![front-page-punkapi](https://user-images.githubusercontent.com/64399840/136471500-07bb2e18-8e6a-4f80-8c81-86ec21485b39.png)
+![cadastro-punk-api](https://user-images.githubusercontent.com/64399840/136471497-e407d692-0d0f-41c3-9c3c-828bbd496df0.png)
+![responsive-punk-api](https://user-images.githubusercontent.com/64399840/136471503-dcdc606f-35c4-450c-ad17-3dcbf53ecb1b.png)
 
-![image](![cadastro-punk-api](https://user-images.githubusercontent.com/64399840/136470903-482a20df-2804-42ae-bd72-ea3f60939816.png)
-
-![image](![responsive-punk-api](https://user-images.githubusercontent.com/64399840/136470821-dcc25887-a3c9-4b7c-90d6-fc0840363520.png)
 
 
 
