@@ -20,9 +20,8 @@ Este projeto consiste em consumir uma API pública, renderizar os itens, salvá-
 
 ![image](![front-page-punkapi](https://user-images.githubusercontent.com/64399840/136470741-ae71f62a-f272-4b60-b13b-524ff7bc319a.png)
 ![image](![cadastro-punk-api](https://user-images.githubusercontent.com/64399840/136470903-482a20df-2804-42ae-bd72-ea3f60939816.png)
-)
-![punkApiResponsivo](![responsive-punk-api](https://user-images.githubusercontent.com/64399840/136470821-dcc25887-a3c9-4b7c-90d6-fc0840363520.png)
-)
+![image](![responsive-punk-api](https://user-images.githubusercontent.com/64399840/136470821-dcc25887-a3c9-4b7c-90d6-fc0840363520.png)
+
 
 
 
