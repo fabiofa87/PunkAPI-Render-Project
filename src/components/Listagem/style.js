@@ -29,9 +29,15 @@ export const ContainerAllList = styled.div`
   margin-left: 10%;
   @media (max-width: 1080px) {
     grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
   }
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
   }
 `;
 
@@ -42,8 +48,12 @@ export const InputStyle = styled.div`
   margin-top: 10px;
   @media (max-width: 1080px) {
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   @media (max-width: 768px) {
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 `;
