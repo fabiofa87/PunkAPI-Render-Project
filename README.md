@@ -11,7 +11,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Punk API - Rende</h3>
+  <h3 align="center">Punk API - Render</h3>
   
   ##Link para projeto:
   http://dear-discussion.surge.sh/
